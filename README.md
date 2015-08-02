@@ -1,6 +1,9 @@
 # CORSAIR REDESIGN
 
-Design by /u/seerven behance.net./glenbaku
+Design by /u/seerven behance.net/glenbaku
+
+
+WIP
 
 bundle install
 
